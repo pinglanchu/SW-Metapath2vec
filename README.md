@@ -7,3 +7,5 @@ https://bupteducn-my.sharepoint.com/:u:/g/personal/jhy1993_bupt_edu_cn/EfLZcHE2e
 Preprocessed DBLP can be found in: https://pan.baidu.com/s/1Qr2e97MofXsBhUvQqgJqDg 提取码：6b3h
 
 https://bupteducn-my.sharepoint.com/:u:/g/personal/jhy1993_bupt_edu_cn/Ef6A6m2njZ5CqkTN8QcwU8QBuENpB7eDVJRnsV9cWXWmsA?e=wlErKk
+
+The benchmark algorithms are based on [HAN](https://github.com/dmlc/dgl/tree/master/examples/pytorch/han), [RGCN](https://github.com/JinheonBaek/RGCN), [GAT](https://github.com/PetarV-/GAT), [GraphSage](https://github.com/williamleif/GraphSAGE).
